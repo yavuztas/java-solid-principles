@@ -1,5 +1,5 @@
 # S-O-L-I-D principals of Object Oriented Programming
-Educational repository containing sample codes in Java for solid principals of oop which are;
+Educational repository containing sample codes in Java for solid principles of oop which are;
 * Single Responsibility Principle
 * Open Closed Principle
 * Liskov Substitution Principle
