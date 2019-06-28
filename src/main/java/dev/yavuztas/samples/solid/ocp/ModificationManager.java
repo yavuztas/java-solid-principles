@@ -19,7 +19,8 @@ public class ModificationManager {
 
 	public ModificationManager() {
 
-		// adding our modifier instances
+		// new modifier implementations can be easily added without touching the rest of
+		// the code
 		modifiers.add(new LessModifier());
 		modifiers.add(new MediumModifier());
 		modifiers.add(new QuiteModifier());
