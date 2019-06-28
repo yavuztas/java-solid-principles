@@ -20,7 +20,8 @@ public class RemoteDBLoginManager implements ILoginManager {
 	@Override
 	public void authenticate(User user) {
 
-		// authenticating user from remote db
+		System.out.println("Authenticating user from remote db...");
+		System.out.println(user + " authenticated.");
 
 	}
 

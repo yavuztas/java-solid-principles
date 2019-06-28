@@ -8,7 +8,8 @@ import dev.yavuztas.samples.solid.srp.model.User;
 
 /**
  * This is an ideal implementation of single responsibility principle. It is
- * seen that all different authentication method separated to different classes.
+ * seen that all different authentication methods separated to different
+ * classes.
  * 
  * @author Yavuz Tas
  *

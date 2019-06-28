@@ -20,7 +20,8 @@ public class LdapLoginManager implements ILoginManager {
 	@Override
 	public void authenticate(User user) {
 
-		// authenticating user from ldap
+		System.out.println("Authenticating user from ldap...");
+		System.out.println(user + " authenticated.");
 
 	}
 

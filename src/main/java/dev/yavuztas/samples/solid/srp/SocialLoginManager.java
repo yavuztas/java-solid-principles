@@ -20,8 +20,8 @@ public class SocialLoginManager implements ILoginManager {
 	@Override
 	public void authenticate(User user) {
 
-		// authenticating user from social networks
-
+		System.out.println("Authenticating user from social networks...");
+		System.out.println(user + " authenticated.");
 	}
 
 }
