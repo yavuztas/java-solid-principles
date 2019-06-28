@@ -24,6 +24,8 @@ public class LoginManagerTests {
 		mockUser = new User(1L, "mockUser");
 		loginManager = new LoginManager();
 
+		System.out.println("---------------------------------");
+
 	}
 
 	@Test
